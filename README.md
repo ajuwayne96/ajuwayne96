@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://count.getloli.com/@ajuwayne69?name=ajuwayne96&theme=booru-helltaker&padding=8&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="180" />
 </p>
 
@@ -78,3 +82,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
