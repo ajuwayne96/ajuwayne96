@@ -13,15 +13,18 @@
 
 <p align="center">
   <a href="https://music.apple.com/us/album/i-was-made-for-lovin-you/1731402076?i=1731402084" target="_blank">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/d3/3a/1ed33a31-8059-eeb1-1547-3abfc65ccf5a/24UM1IM03486.rgb.jpg/600x600bb.jpg" alt="I Was Made For Lovin' You - YUNGBLUD" width="300" style="border-radius: 16px;" />
+    <img src="https://c.saavncdn.com/165/I-Was-Made-For-Lovin-You-from-The-Fall-Guy-English-2024-20240426063316-500x500.jpg" alt="I Was Made For Lovin' You - YUNGBLUD" width="280" style="border-radius: 12px;" />
   </a>
 </p>
 
 <p align="center">
   <strong>🎵 I Was Made For Lovin' You</strong><br/>
-  <em>by YUNGBLUD (From *The Fall Guy*)</em><br/><br/>
-  <a href="https://music.apple.com/us/album/i-was-made-for-lovin-you/1731402076?i=1731402084">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_Music_logo.svg" width="100" alt="Apple Music Logo" />
+  <em>by YUNGBLUD (From *The Fall Guy*)</em>
+</p>
+
+<p align="center">
+  <a href="https://music.apple.com/">
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/apple-music-logo.png" width="120" alt="Apple Music Logo" />
   </a>
 </p>
 
