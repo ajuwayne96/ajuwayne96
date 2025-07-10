@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Aju Sebastian -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I%27m+Aju+Sebastian;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=80&duration=3000&pause=1000&center=true&vCenter=true&width=1600&height=140&lines=Hi+I%27m+Aju+Sebastian+✌️;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
