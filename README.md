@@ -29,7 +29,7 @@
 ## 🧠 About Me
 
 <table>
-  <tr>
+  
     <td valign="top" width="50%">
       
 - 🔥 Passionate about building projects that **speak**, **think**, and **feel**  
@@ -39,15 +39,22 @@
 - 🌐 Exploring intelligent systems that feel *alive*
 
     </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGtqZXg2bjZsN3ljMW0wOWE5bThnNTh5MGUyYTBmY3hmNWt0cHBjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width="480" alt="About Me" />
-    </td>
-  </tr>
+   <td align="center" width="50%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGtqZXg2bjZsN3ljMW0wOWE5bThnNTh5MGUyYTBmY3hmNWt0cHBjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width="480" alt="About Me" />
+</td>
+
+  
 </table>
 
 <p align="center">
+  <a href="https://maps.app.goo.gl/fwUvhaKG8E4MYNH48" target="_blank">
   <img src="https://img.shields.io/badge/Location-Kottayam%2C%20Kerala-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=0abde3" />
+</a>
+
+  <a href="https://github.com/ajuwayne96?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/Current_Project-LinguaSense_AI-purple?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
   <img src="https://img.shields.io/badge/Hacker_Tool-NeuroReactor-critical?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
 
@@ -107,6 +114,10 @@
 > “I don’t just code AI — I make it speak, feel, and live in real-time.”
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajuwayne96/ajuwayne96/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 
 <p align="center">
   <img src="https://count.getloli.com/@ajuwayne96?name=ajuwayne96&theme=booru-helltaker&padding=8&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
