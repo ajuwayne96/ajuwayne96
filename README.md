@@ -115,7 +115,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajuwayne96/ajuwayne96/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/ajuwayne96/ajuwayne96/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 
