@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Aju Sebastian -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=80&duration=3000&pause=1000&center=true&vCenter=true&width=1600&height=140&lines=Hi+I%27m+Aju+Sebastian+✌️;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=80&duration=3000&pause=1000&center=true&vCenter=true&width=1600&height=140&lines=Hi+I%27m+Aju+Sebastian+✌️;AI+Enthusiast+%7C+Indie+Pygame+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,11 +12,28 @@
 
 ## 🧠 About Me
 
-- 🔊 I build projects that think, speak, and *feel* — combining real-time voice, AI, and creativity.
-- 🎯 Current project: **LinguaSense AI** – real-time voice translator + emotion detector in C#
-- 💡 Invented: **NeuroReactor** – a hacker’s second mind powered by an LLM
-- 🎮 Love creating interactive experiences like **Dodge the Fireball** (Pygame)
-- 📍 Based in **Kottayam, Kerala, India**
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+- 🔥 Passionate about building projects that **speak**, **think**, and **feel**  
+- 🧠 Obsessed with **Voice Interfaces**, **Real-time AI**, and **Hacker Tools**  
+- 💡 Creator of `NeuroReactor`: your terminal’s second mind  
+- 🧩 Loves merging **Vosk**, **Porcupine**, **.NET**, and **Pygame**  
+- 🌐 Exploring intelligent systems that feel *alive*
+
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGtqZXg2bjZsN3ljMW0wOWE5bThnNTh5MGUyYTBmY3hmNWt0cHBjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width="480" alt="About Me" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kottayam%2C%20Kerala-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=0abde3" />
+  <img src="https://img.shields.io/badge/Current_Project-LinguaSense_AI-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacker_Tool-NeuroReactor-critical?style=for-the-badge&logo=terminal&logoColor=white" />
+</p>
 
 ---
 
