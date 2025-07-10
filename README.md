@@ -9,23 +9,21 @@
 </p>
 
 ---
-<h3 align="center">🎧 Now Playing on Apple Music</h3>
+<h2 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, sans-serif;">
+  🎧 Now Playing on Apple Music
+</h2>
 
 <p align="center">
-  <a href="https://music.apple.com/us/album/i-was-made-for-lovin-you/1731402076?i=1731402084" target="_blank">
-    <img src="https://c.saavncdn.com/165/I-Was-Made-For-Lovin-You-from-The-Fall-Guy-English-2024-20240426063316-500x500.jpg" alt="I Was Made For Lovin' You - YUNGBLUD" width="280" style="border-radius: 12px;" />
-  </a>
+  <img src="https://c.saavncdn.com/165/I-Was-Made-For-Lovin-You-from-The-Fall-Guy-English-2024-20240426063316-500x500.jpg" width="200" alt="Album Art" />
+</p>
+
+<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, sans-serif; font-size: 18px;">
+  <strong>I Was Made For Lovin' You</strong><br />
+  <em>by YUNGBLUD</em> (From <em>The Fall Guy</em>)
 </p>
 
 <p align="center">
-  <strong>🎵 I Was Made For Lovin' You</strong><br/>
-  <em>by YUNGBLUD (From *The Fall Guy*)</em>
-</p>
-
-<p align="center">
-  <a href="https://music.apple.com/">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/apple-music-logo.png" width="120" alt="Apple Music Logo" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Apple_Music_logo.png/1200px-Apple_Music_logo.png?20220221060659" width="150" alt="Apple Music Logo" />
 </p>
 
 ## 🧠 About Me
