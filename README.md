@@ -1,11 +1,11 @@
 <!-- GitHub Profile README for Aju Sebastian -->
 
-<h1 align="center" style="font-family:Poppins, sans-serif; font-weight:900;">
-  👋 Hello There! I'm <span style="color:#00ffe7;">Aju Sebastian</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I%27m+Aju+Sebastian;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btNRm3TqU7N4bXq/giphy.gif" width="320" height="180" alt="Mr Robot hacker gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMzN3l0Ym9hMHg2NHdpcGpvMDFwZGR5YTkxcTZ5emI3MzgxOHBhMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3pTtbLJ7Jd0YM/giphy.gif" width="320" height="180" alt="Mr Robot Fsociety Gif" />
 </p>
 
 ---
@@ -82,4 +82,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
