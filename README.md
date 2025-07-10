@@ -1,15 +1,11 @@
 <!-- GitHub Profile README for Aju Sebastian -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aju+Sebastian!;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
+<h1 align="center" style="font-family:Poppins, sans-serif; font-weight:900;">
+  👋 Hello There! I'm <span style="color:#00ffe7;">Aju Sebastian</span>
 </h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@ajuwayne69?name=ajuwayne96&theme=booru-helltaker&padding=8&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="180" />
+  <img src="https://media.giphy.com/media/3o7btNRm3TqU7N4bXq/giphy.gif" width="320" height="180" alt="Mr Robot hacker gif" />
 </p>
 
 ---
@@ -78,6 +74,10 @@
 > “I don’t just code AI — I make it speak, feel, and live in real-time.”
 
 ---
+
+<p align="center">
+  <img src="https://count.getloli.com/@ajuwayne69?name=ajuwayne96&theme=booru-helltaker&padding=8&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
