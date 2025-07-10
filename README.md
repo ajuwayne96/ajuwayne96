@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Aju Sebastian -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aju+Sebastian!;AI+Enthusiast+%7C+Voice+Tech+Developer+%7C+Pygame+Indie+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aju+Sebastian!;AI+Enthusiast+%7C+Voice+Tech+Builder+%7C+Pygame+Indie+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,83 +12,69 @@
 
 ## 🧠 About Me
 
-- 💬 I'm a self-driven developer passionate about **AI**, **real-time voice systems**, and **game development**.
-- 🔊 I build projects that speak, feel, think — and sometimes even dodge fireballs.
-- 🎯 Currently working on **LinguaSense AI** – a voice translator + emotion labeler.
-- 💡 Conceptualized **NeuroReactor** – a hacker's second brain with real-time LLM assistance.
-- 🛠 I love integrating APIs, voice models, and creative UIs into real-time tools.
+- 🔊 I build projects that think, speak, and *feel* — combining real-time voice, AI, and creativity.
+- 🎯 Current project: **LinguaSense AI** – real-time voice translator + emotion detector in C#
+- 💡 Invented: **NeuroReactor** – a hacker’s second mind powered by an LLM
+- 🎮 Love creating interactive experiences like **Dodge the Fireball** (Pygame)
+- 📍 Based in **Kottayam, Kerala, India**
 
 ---
 
-## 🚀 Projects Showcase
+## ⚙️ Tech Stack & Tools
 
-### 🔊 LinguaSense AI – *Voice Translator + Emotion Labeler*
-- 🎙 Built in `.NET (C#)` with `Vosk`, `Porcupine`, and Emotion APIs  
-- 🗣️ Translates live voice input to **Tamil**, **Japanese**, and more  
-- ❤️ Analyzes emotional tone: happy, sad, angry, neutral  
-- 🛠️ Real-time speech + sentiment + response = Future interface
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,pygame,git,github,vscode,linux" />
+</p>
 
-### 🤖 Jarvis Assistant – *Voice-Controlled Desktop EXE*
-- 🧠 Offline wake-word assistant using `Porcupine` + `Vosk`  
-- 📦 Packaged with `PyInstaller`, includes `.ppn` models  
-- 🔈 Responds to commands, plays sounds, runs tasks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,api,windows,py" />
+</p>
 
-### 🎮 Dodge the Fireball – *Indie Pygame Arcade*
-- 🕹️ Menu, Retry Button, Background Music, AI Boss Logic  
-- 🔥 Dodge fireballs, survive waves, enjoy pixel chaos
+---
+
+## 📌 Featured Projects
+
+### 🔊 LinguaSense AI
+> *Voice Translator + Emotion Labeler built with .NET, Vosk, Porcupine, and API Ninjas*
+
+### 🤖 Jarvis Desktop Assistant
+> *Wake-word activated, offline voice assistant packaged as EXE*
+
+### 🎮 Dodge the Fireball
+> *Pygame mini-arcade with enemy AI, retry logic, music & UI*
 
 ### 🧬 NeuroReactor (Concept)
-- 🧑‍💻 Terminal-integrated AI for ethical hacking  
-- 🧠 Built as an LLM-augmented cognitive assistant
+> *Real-time LLM-powered assistant for developers and hackers*
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,pygame,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajuwayne96&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuwayne96&layout=compact&theme=radical" width="370"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,api,linux,py" />
-</p>
-
-- **Languages:** Python, C#, JavaScript  
-- **Tools:** .NET, PyInstaller, Vosk, Porcupine, Pygame  
-- **Domains:** AI, Voice Interfaces, Game Dev, Ethical Hacking, Real-Time Systems
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aju-sebastian&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aju-sebastian&layout=compact&theme=radical" width="370"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aju-sebastian&theme=dark&hide_border=true" width="480"/>
+  <img src="https://streak-stats.demolab.com/?user=ajuwayne96&theme=dark&hide_border=true" width="480"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📍 Contact Me
+
+- 🏠 Kottayam, Kerala, India  
+- 📫 Email: [ajuwayne96@gmail.com](mailto:ajuwayne96@gmail.com)  
+- 🔗 LinkedIn: [Aju Sebastian](https://www.linkedin.com/in/aju-sebastian-78b155265/)
+
+---
+
+## ✨ Fun Fact
+
+> “I don’t just code AI — I make it speak, feel, and live in real-time.”
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aju-sebastian-78b155265/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ajuwayne96@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
----
-
-## 🧩 Fun Fact
-
-> "I don’t just build code – I build *experiences* powered by intelligence, emotion, and voice."
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
