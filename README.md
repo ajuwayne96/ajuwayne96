@@ -1,53 +1,65 @@
-# 👋 Hi, I'm Aju Sebastian
-
-🚀 Aspiring AI Developer | 🎮 Indie Game Creator | 🤖 Voice Assistant Engineer  
-🎯 Passionate about building unique, mind-blowing projects blending AI, real-time systems, and interactivity.
+<h1 align="center">Hi 👋, I'm Aju Sebastian</h1>
+<h3 align="center">AI Developer | Voice Tech Enthusiast | Indie Game Builder</h3>
 
 ---
 
-## 🔧 What I Do
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **LinguaSense AI**  
+  A real-time voice translator + emotion detector built in C# using Vosk, Porcupine, and API Ninjas.
 
-- 🔊 **LinguaSense AI**  
-  A real-time **Voice Translator + Emotion Analyzer**  
-  → Built using Vosk, Porcupine, .NET (C#), and Emotion API  
-  → Translates live speech into multiple languages like **Tamil** and **Japanese** while labeling emotions like *happy*, *sad*, or *angry*.
+- 🌱 I’m exploring more on:
+  - AI + Real-time interaction
+  - Ethical hacking automation (NeuroReactor concept)
+  - Game development with Pygame
 
-- 🧠 **NeuroReactor** *(WIP)*  
-  A second brain for ethical hackers.  
-  → Local-first tool that augments your terminal or dev environment with an AI reasoning core.  
-  → Think real-time thoughts + commands piped into a personal LLM for exploit dev and debugging.
+- 💡 Fun Fact: I love building futuristic stuff — from assistants like *Jarvis* to emotion-aware translators.
 
-- 🎮 **Dodge the Fireball**  
-  My first full-featured **Pygame** project.  
-  → Features: custom menu, retry button, background music, sound FX, enemy logic, image buttons, and more.  
-  → Learned: Game loops, collision detection, event handling, UX polish.
-
-- 🗣️ **Jarvis Assistant**  
-  Python-based voice assistant packaged into a standalone `.exe`.  
-  → Triggered with **Porcupine Wake Word**, listens via **Vosk**, responds with text-to-speech.  
-  → Packaged with `PyInstaller`, including all dependencies like `.ppn` models.
+- 📫 How to reach me:  
+  [LinkedIn](https://www.linkedin.com/in/aju-sebastian-78b155265/)
 
 ---
 
-## 🛠️ Skills
+### 🧠 Projects
 
+#### 🔊 LinguaSense AI
+Real-time voice translator + emotion labeler  
+Tech: `.NET`, `Vosk`, `Porcupine`, `Emotion APIs`  
+> "Speaks back what you say — but smarter, multilingual, and emotionally aware."
+
+#### 🤖 Jarvis (Python EXE Assistant)
+Wake-word triggered voice assistant with offline voice recognition  
+Tech: `Python`, `Vosk`, `Porcupine`, `PyInstaller`  
+> "Packaged like Iron Man’s Jarvis, minus the suit."
+
+#### 🎮 Dodge the Fireball
+Mini-game with full menu, sounds, retry, AI boss mechanics  
+Tech: `Pygame`, `Python`  
+> "Dodge or burn. A no-mercy arcade blast built from scratch."
+
+#### 🧬 NeuroReactor (WIP)
+Local-first AI kernel for hackers and devs  
+Concept: `LLM-powered cognitive augmentation`  
+> "A second brain for those who live in the terminal."
+
+---
+
+### 🛠️ Tech Stack
 **Languages:** Python, C#, JavaScript  
-**Libraries/Tools:** Vosk, Porcupine, Pygame, .NET, PyInstaller, Hugging Face APIs  
-**Interests:** AI-powered tools, Voice UI, Ethical Hacking, Games with Real-time AI Logic
+**Tools & Frameworks:** .NET, Vosk, Porcupine, PyInstaller, Pygame  
+**Domains:** AI, Voice Interfaces, Game Dev, Ethical Hacking
 
 ---
 
-## 📈 GitHub Stats
-
-![Aju's GitHub stats](https://github-readme-stats.vercel.app/api?username=aju-sebastian&show_icons=true&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: [Aju Sebastian](https://www.linkedin.com/in/aju-sebastian-78b155265/)
-- Projects in progress? DM me here or on LinkedIn to collab or get inspired!
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aju-sebastian&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aju-sebastian&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-*“I don't just build apps — I bring AI to life.”*
+### 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/aju-sebastian-78b155265/)
+- [GitHub](https://github.com/aju-sebastian)
+
+---
